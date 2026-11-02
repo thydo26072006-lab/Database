@@ -2,7 +2,6 @@
 
 ## Cấu trúc
 - [sql/task_a_demo.sql](sql/task_a_demo.sql): bản demo độc lập dành cho SQL Server 2016+ (SSMS), chạy trong database `coffee_pos_task_a`. Gồm bảng, dữ liệu mẫu, 5 truy vấn, 1 hàm, 4 thủ tục và các kịch bản kiểm thử.
-- [sql/001_pos_core.sql](sql/001_pos_core.sql): script core cũ của nhóm. **Không chạy lẫn hai script trong cùng database**. Script core dùng MySQL; file demo Task A sử dụng SQL Server.
 
 ## Cách chạy
 1. Mở SQL Server Management Studio.
